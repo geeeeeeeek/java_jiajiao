@@ -72,12 +72,12 @@ npm run dev
 
 首页
 
-![]()
+![](https://github.com/geeeeeeeek/java_jiajiao/blob/master/server/upload/image/a.png)
 
 
 后台页面
 
-![]()
+![](https://github.com/geeeeeeeek/java_jiajiao/blob/master/server/upload/image/b.png)
 
 
 
